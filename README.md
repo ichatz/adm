@@ -10,5 +10,5 @@ We start using the [Iris Dataset](http://scikit-learn.org/stable/auto_examples/d
 We then continue with the [OpenFlights Dataset](http://openflights.org/data.html) and the airports tables that we used during the 2nd Lab.
 
 The lab material is available as an iPython notebook:
-* [Iris Dataset](http://nbviewer.ipython.org/github/ichatz/adm2015/blob/master/lab3/ADM%20Lab%203%20-%20Iris.ipynb)
-* [Airports Dataset](http://nbviewer.ipython.org/github/ichatz/adm2015/blob/master/lab3/ADM%20Lab%203%20-%20Airports.ipynb).
+* [Iris Dataset](/lab3/ADM%20Lab%203%20-%20Iris.ipynb)
+* [Airports Dataset](/lab3/ADM%20Lab%203%20-%20Airports.ipynb).
