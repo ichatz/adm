@@ -12,7 +12,15 @@ The lab material is available as an iPython notebook:
 * [Handling CSV datasets using Rome Population Dataset](lab-population/ADM%20Lab%20-%20Population.ipynb)
 
 
-# Lab on Clustering & Data Visualisation using the Iris Dataset
+# Lab on Data Visualisation using the Rome's Population Dataset
+
+The lab focuses on visualizing multiple datasets (in CSV format) provided by the [Open Data portal of the City of Rome](http://dati.comune.roma.it/). 
+
+The lab material is available as an iPython notebook:
+* [Data Visualization using Rome Population Dataset](lab-visualization/ADM%20Lab%20-%20Visualization.ipynb)
+
+
+# Lab on Clustering & Data Visualization using the Iris Dataset
 
 The lab focuses on Clustering data using the K-means algorithm. The material is based on the refcard from [DZone](https://dzone.com/) on [Practical Data Mining with Python](https://dzone.com/refcardz/data-mining-discovering-and).
 
