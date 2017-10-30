@@ -20,6 +20,14 @@ The lab material is available as an iPython notebook:
 * [Data Visualization using Rome Population Dataset](lab-visualization/ADM%20Lab%20-%20Visualization.ipynb)
 
 
+# Lab on Document Databases using the Lazios's Bar/Restaurant Dataset
+
+The lab focuses on using dataset (in JSON format) provided by the [Open Data portal of Italy](http://www.datiopen.it) and how to use a document database, such as [MongoDB](http://www.mongodb.com), to store & organize the data. 
+
+The lab material is available as an iPython notebook:
+* [Data Manipulation using Lazio Bar/Restaurant Dataset](lab-restaurants/ADM%20Lab%20-%20Restaurants.ipynb)
+
+
 # Lab on Clustering & Data Visualization using the Iris Dataset
 
 The lab focuses on Clustering data using the K-means algorithm. The material is based on the refcard from [DZone](https://dzone.com/) on [Practical Data Mining with Python](https://dzone.com/refcardz/data-mining-discovering-and).
