@@ -20,7 +20,7 @@ The lab material is available as an iPython notebook:
 * [Data Visualization using Rome Population Dataset](lab-visualization/ADM%20Lab%20-%20Visualization.ipynb)
 
 
-# Lab on Document Databases using the Lazios's Bar/Restaurant Dataset
+# Lab on Document Databases using the Lazio's Bar/Restaurant Dataset
 
 The lab focuses on using dataset (in JSON format) provided by the [Open Data portal of Italy](http://www.datiopen.it) and how to use a document database, such as [MongoDB](http://www.mongodb.com), to store & organize the data. 
 
