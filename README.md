@@ -28,6 +28,14 @@ The lab material is available as an iPython notebook:
 * [Data Manipulation using Lazio Bar/Restaurant Dataset](lab-restaurants/ADM%20Lab%20-%20Restaurants.ipynb)
 
 
+# Lab on Web Scraping using the BBC's Food Recipes Dataset
+
+The lab focuses on retrieving data from web pages by examining the HTML documents using the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) and in the sequel store the data in a document database, such as [MongoDB](http://www.mongodb.com). The process of fetching documents from the world wide web is also known as *Web Scraping* and in this lab we use the [BBC Food Recipes database](https://www.bbc.co.uk/food/recipes).
+
+The lab material is available as an iPython notebook:
+* [Web Scraping using BBC Food Recipes Dataset](lab-cooking/ADM%20Lab%20-%20Food%20Recipes.ipynb)
+
+
 # Lab on Clustering & Data Visualization using the Iris Dataset
 
 The lab focuses on Clustering data using the K-means algorithm. The material is based on the refcard from [DZone](https://dzone.com/) on [Practical Data Mining with Python](https://dzone.com/refcardz/data-mining-discovering-and).
