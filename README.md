@@ -44,3 +44,12 @@ The [Iris Dataset](http://scikit-learn.org/stable/auto_examples/datasets/plot_ir
 
 The lab material is available as an iPython notebook:
 * [Clustering, Data Visualization using Iris Dataset](lab-iris/ADM%20Lab%20-%20Iris.ipynb)
+
+# Lab on Clustering & Data Visualization using the Iris Dataset
+
+The lab focuses on how to represent data using Graphs using the [networkX](http://networkx.github.io/) Python library. 
+
+The lab material presented is based on the data provided by the [OpenFlights](https://openflights.org/data.html) dataset that contains information on airports, airlines and routes.
+
+The lab material is available as an iPython notebook:
+* [Representing data as Graphs using OpenFlight Dataset](lab-airports/ADM%20Lab%20-%20Airports.ipynb)
