@@ -13,5 +13,5 @@ The material for earlier years is available under the [2015-2017](/ichatz/adm/tr
 The lab provides a quick introduction to basic operations on Python data types and on Pandas Series and Dataframes. The lab concludes with some hands-on data engineering based on a dataset (in CSV format) provided by the [Open Data portal of the City of Rome](http://dati.comune.roma.it/). In particular, the lab uses the [dataset listing all hotels, hostels and in general all the structures that can receive guests within Rome, that are active during January 2019](https://dati.comune.roma.it/catalog/dataset/d823/resource/9964559d-0a9b-4dd6-a417-eb1ed019ab59). 
 
 The lab material is available as an iPython notebook:
-* [Introduction to Python data types and Pandas using Rome's Municipality Open Data Portal](lab-intro/ADM%20Lab%201%20-Intro.ipynb)
+* [Introduction to Python data types and Pandas using Rome's Municipality Open Data Portal](lab-intro/ADM%20Lab%201%20-%20Intro.ipynb)
 
