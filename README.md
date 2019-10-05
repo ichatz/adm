@@ -20,4 +20,5 @@ The lab material is available as an iPython notebook:
 The lab provides a quick introduction to basic operations of the [MatplotLib, a Python 2D plotting library](https://matplotlib.org/). The lab uses the [dataset listing all hotels, hostels and in general all the structures that can receive guests within Rome, that are active during January 2019](https://dati.comune.roma.it/catalog/dataset/d823/resource/9964559d-0a9b-4dd6-a417-eb1ed019ab59) in order to visualize certain aspects. 
 
 The lab material is available as an iPython notebook:
-* [Data Visualization based on MatplotLib and Pandas using Rome's Municipality Open Data Portal](lab-visualization/ADM%20Lab%201%20-%20Visualization.ipynb)
+* [Data Visualization based on MatplotLib and Pandas using Rome's Municipality Open Data Portal](lab-visualization/ADM%20Lab%202%20-%20Visualization.ipynb)
+
