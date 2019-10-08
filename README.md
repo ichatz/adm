@@ -22,3 +22,11 @@ The lab provides a quick introduction to basic operations of the [MatplotLib, a 
 The lab material is available as an iPython notebook:
 * [Data Visualization based on MatplotLib and Pandas using Rome's Municipality Open Data Portal](lab-visualization/ADM%20Lab%202%20-%20Visualization.ipynb)
 
+## Data Engineering with Pandas and Document Databases using Rome's Municipality Open Data Portal
+
+The lab carries out a series of data engineering tasks on the [dataset listing all hotels, hostels and in general all the structures that can receive guests within Rome, that are active during January 2019](https://dati.comune.roma.it/catalog/dataset/d823/resource/9964559d-0a9b-4dd6-a417-eb1ed019ab59) in combination with the [dataset listing all hotels, hostels and in general all the structures that can receive guests within Rome, that are active during January 2018](https://dati.comune.roma.it/catalog/dataset/d198/resource/69b5af35-2088-42a2-bbf9-be8c60408eaf) to compare the growth between the 2 years.
+
+In the sequel, a document database, such as [MongoDB](http://www.mongodb.com), to store & organize the data. 
+
+The lab material is available as an iPython notebook:
+* [Data Engineering based on Pandas and Document Dabases using Rome's Municipality Open Data Portal](lab-db/ADM%20Lab%203%20-%20Database.ipynb)
