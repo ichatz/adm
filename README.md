@@ -30,3 +30,10 @@ In the sequel, a document database, such as [MongoDB](http://www.mongodb.com), t
 
 The lab material is available as an iPython notebook:
 * [Data Engineering based on Pandas and Document Dabases using Rome's Municipality Open Data Portal](lab-db/ADM%20Lab%203%20-%20Database.ipynb)
+
+## Web Scraping using the ParkRun Web site
+
+The lab focuses on retrieving data from web pages by examining the HTML documents using the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/). The process of fetching documents from the world wide web is also known as *Web Scraping* and in this lab we use the [ParkRun web site](https://www.parkrun.com).
+
+The lab material is available as an iPython notebook:
+* [Web Scraping using ParkRun](lab-webscraping/ADM%20Lab%204%20-%20WebScraping.ipynb)
