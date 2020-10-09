@@ -1,7 +1,8 @@
 The repository contains support material for the lab classes of the *Algorithmic Methods for Data Science* course taught as part of the [Data Science master](http://datascience.i3s.uniroma1.it/it) at [Sapienza University](http://www.uniroma1.it/). The class was tought during the following years: 
-* [2019-2020](http://aris.me/index.php?id=42)
+* [2020-2021](http://aris.me/index.php?id=42)
 
-The material for earlier years is available under the [2015-2017](/ichatz/adm/tree/2015-2017) branch, tought during:
+The material for earlier years is available under the [2015-2020](/ichatz/adm/tree/2015-2017) branch, tought during:
+* [2019-2020](http://aris.me/index.php/data-mining-ds-2019)
 * [2018-2019](http://aris.me/index.php/data-mining-ds-2018)
 * [2017-2018](http://aris.me/index.php/data-mining-ds-2017)
 * [2016-2017](http://aris.me/index.php/data-mining-ds-2016)
